@@ -1,0 +1,23 @@
+.Acercade {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  h1{
+    text-align: center;
+  }
+  .chat{
+  background-color: cadetblue;
+  
+  }
+  .acerca{
+    background-color:lightblue;
+    }
+    .info{
+    background-color: lightblue;
+    }
+  .sigui{
+  background-color: cadetblue
+  }
+  .quien{
+  background-color: cadetblue
+  }

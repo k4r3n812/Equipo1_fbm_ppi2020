@@ -1,0 +1,36 @@
+
+.miboton{
+    padding: 500px;
+}
+.usuario{
+    right: 500px;
+
+}
+.btn{
+    
+position: relative;
+}
+.cargChat{
+    position: relative;
+    left: 550px;
+}
+.cargquienes{
+    position: relative;
+    left: 90px;
+    bottom: 380px;
+    
+
+}
+.cargmasInfo{
+    position: relative;
+    right: 395px;
+    bottom: 765px;
+    
+
+}
+.cardAcerca{
+    position: relative;
+    text-align: center;
+    bottom:760px ;
+
+}

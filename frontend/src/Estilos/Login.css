@@ -1,0 +1,36 @@
+form{
+    right: 500px;
+text-align: center;
+} 
+.botonlogin{
+    background-color: orange;
+    padding: 10px;
+}
+.linkolvi{
+    background-color:black;
+} h1{
+    text-align: center;
+    
+}.iniciosesion{
+    right: -500px;
+    position: relative;
+    
+}.cuadrotexto{
+    right: -700px;
+    position: relative;
+    top:2px;
+    padding: 6px;
+   
+    
+}.contraseñatex{
+    right: -700px;
+    position: relative;
+    top:2px;
+    padding: 6px;
+    position: relative;
+   
+    
+}.login{
+position: relative;
+right: -7px;
+}

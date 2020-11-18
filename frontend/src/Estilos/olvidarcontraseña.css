@@ -1,0 +1,11 @@
+
+.logo{
+    right: 210px;
+}
+.btn{
+justify-items: center;
+}
+button{
+    justify-content: center;
+    justify-items: center;
+}

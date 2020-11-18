@@ -1,0 +1,17 @@
+
+.btn{
+    justify-content: right;
+}
+Link{
+    justify-content: right;
+
+}
+.regresa{
+    
+   margin: auto;
+   position: relative;
+}
+.abandonar{
+    position: relative;
+    right: -500px;
+} 
